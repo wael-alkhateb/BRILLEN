@@ -1,0 +1,37 @@
+(function (t) {
+t.fallback = 'en';
+t.defaultDomain = 'messages';
+// de_DE
+t.add("account.impersonation.exit_impersonation", "Imitationsmodus beenden\n", "account", "de_DE");
+t.add("account.impersonation.impersonated", "Imitationsmodus - Kunde: %customer% (%email%)\n", "account", "de_DE");
+t.add("account.returns.form.comment", "Kommentar\n", "account", "de_DE");
+t.add("account.returns.form.resolution", "L\u00f6sung\n", "account", "de_DE");
+t.add("account.returns.form.submit", "Absenden\n", "account", "de_DE");
+t.add("account.returns.return_reasons.refund", "R\u00fcckerstattung\n", "account", "de_DE");
+t.add("account.returns.return_reasons.return", "R\u00fcckgabe\n", "account", "de_DE");
+t.add("account.returns.returnable_items.return_request_in_progress", "Es ist bereits ein R\u00fcckgabevorgang f\u00fcr dieses Produkt aktiv.\n", "account", "de_DE");
+t.add("account.returns.returnable_items.unable_to_return_hto", "Der R\u00fccksendeschein deiner Anprobebrillen liegt der Sendung bei.\n", "account", "de_DE");
+t.add("account.returns.returnable_items.unable_to_return_case", "Bitte kontaktiere den <a href=\"https:\/\/support.brille24.de\">Support<\/a>, wenn du dein Brillenetui zur\u00fcckschicken willst.\n", "account", "de_DE");
+t.add("account.returns.ui.comment", "Kommentar\n", "account", "de_DE");
+t.add("account.returns.ui.resolution", "Gew\u00fcnschte L\u00f6sung\n", "account", "de_DE");
+t.add("account.ui.account", "Konto\n", "account", "de_DE");
+t.add("account.ui.already_registered", "Ich habe bereits ein Konto\n", "account", "de_DE");
+t.add("account.ui.create_account", "Konto anlegen\n", "account", "de_DE");
+t.add("account.ui.create_account_desc", "Erstelle ein Konto, um auf deine Bestellungen zuzugreifen, verschiedene Brillenp\u00e4sse zu speichern und vieles mehr.\n", "account", "de_DE");
+t.add("account.ui.login", "Anmelden\n", "account", "de_DE");
+t.add("account.ui.logout", "Abmelden\n", "account", "de_DE");
+t.add("account.ui.my_account", "Dein Konto\n", "account", "de_DE");
+t.add("account.ui.register", "Registrieren\n", "account", "de_DE");
+t.add("account.ui.registration_terms", "Mit der Erstellung eines Kontos best\u00e4tigst du, dass du unsere <a href=\"\/ueber-uns\/legal\/agb\">Allgemeine Gesch\u00e4ftsbedingungen<\/a> gelesen hast und dass deine Daten in \u00dcbereinstimmung mit unserer <a href=\"\/ueber-uns\/legal\/datenschutz\">Datenschutzerkl\u00e4rung<\/a> gespeichert werden d\u00fcrfen.\n", "account", "de_DE");
+t.add("brille24.returns.info", "Bitte w\u00e4hle die Art (R\u00fcckgabe oder Reklamation) deiner R\u00fccksendung und den jeweiligen Grund aus.\nDas DHL-Retourenlabel f\u00fcr den kostenlosen R\u00fcckversand innerhalb Deutschlands erh\u00e4ltst du per E-Mail nach dem Absenden des unten stehenden Formulars.\nWeitere Informationen zu R\u00fcckgaben und Reklamationen findest du <a href=\"https:\/\/brille24.zendesk.com\/hc\/de\/categories\/360000236533-R%C3%BCckgabe-Reklamation\">hier<\/a>.\n", "account", "de_DE");
+t.add("brille24.returns.reason", "Grund\n", "account", "de_DE");
+t.add("brille24.returns.return_reasons.refund", "R\u00fcckerstattung\n", "account", "de_DE");
+t.add("brille24.returns.return_reasons.replacement", "Neuproduktion\n", "account", "de_DE");
+t.add("brille24.returns.returnable_items.return_request_in_progress", "Dieses Produkt wurde schon f\u00fcr eine R\u00fcckgabe angek\u00fcndigt.\n", "account", "de_DE");
+t.add("brille24.returns.returnable_items.unable_to_return_hto", "Der R\u00fccksendeschein deiner Anprobebrillen liegt der Sendung bei.\n", "account", "de_DE");
+t.add("brille24.returns.select", "Bitte ausw\u00e4hlen\n", "account", "de_DE");
+t.add("brille24.returns.type", "Art\n", "account", "de_DE");
+t.add("brille24.returns.types.reclamation", "Reklamation\n", "account", "de_DE");
+t.add("brille24.returns.types.return", "R\u00fcckgabe\n", "account", "de_DE");
+t.add("customer.form.returns.min_items", "Bitte w\u00e4hle eine Brille in der Spalte &quot;Ausw\u00e4hlen&quot;.\n", "account", "de_DE");
+})(Translator);

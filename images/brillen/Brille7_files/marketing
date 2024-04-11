@@ -1,0 +1,37 @@
+(function (t) {
+t.fallback = 'en';
+t.defaultDomain = 'messages';
+// de_DE
+t.add("marketing.all_inclusive", "Alles inklusive\n", "marketing", "de_DE");
+t.add("marketing.all_inclusive_text", "Freue dich auf deine neue Brille inklusive Qualit\u00e4tsgl\u00e4sern.\n", "marketing", "de_DE");
+t.add("marketing.contact_customer_service", "Kontaktiere unseren Kundenservice.\n", "marketing", "de_DE");
+t.add("marketing.delivery_label", "Lieferung\n", "marketing", "de_DE");
+t.add("marketing.delivery_text", "Verfolge deine Lieferung\n", "marketing", "de_DE");
+t.add("marketing.free_returns", "Gratis R\u00fcckversand\n", "marketing", "de_DE");
+t.add("marketing.free_returns_text", "Sende deine neue Brille bei Nichtgefallen kostenfrei zur\u00fcck.\n", "marketing", "de_DE");
+t.add("marketing.klarna_invoice", "Klarna Kauf auf Rechnung\n", "marketing", "de_DE");
+t.add("marketing.klarna_invoice_text", "In Zusammenarbeit mit Klarna bieten wir die Zahlung per Rechnung an.\n", "marketing", "de_DE");
+t.add("marketing.question", "Hast du eine Frage oder ben\u00f6tigst du Hilfe?\n", "marketing", "de_DE");
+t.add("marketing.question_label", "Hilfe\n", "marketing", "de_DE");
+t.add("marketing.refund_warranty", "Geld-zur\u00fcck-Garantie\n", "marketing", "de_DE");
+t.add("marketing.refund_warranty_text", "Trage deine neue Brille 30 Tage ganz ohne Risiko.\n", "marketing", "de_DE");
+t.add("marketing.return_label", "Bitte wende dich an unseren Kundenservice f\u00fcr einen Retourenschein.\n", "marketing", "de_DE");
+t.add("next_steps.box.text", "Du hast eine E-Mail von uns erhalten. Bitte best\u00e4tige dort deine Newsletter-Anmeldung.\n", "marketing", "de_DE");
+t.add("next_steps.box.title", "Newsletteranmeldung best\u00e4tigen\n", "marketing", "de_DE");
+t.add("unsubscribe_newsletter.box.button", "Newsletter abmelden\n", "marketing", "de_DE");
+t.add("unsubscribe_newsletter.box.postscript", "Bitte beachte: Nach erfolgter Abmeldung von unserem Newsletter erh\u00e4ltst du keine weiteren Angebote mehr von uns.\n", "marketing", "de_DE");
+t.add("unsubscribe_newsletter.box.text_pity", "Schade, dass du unseren Newsletter abbestellen m\u00f6chtest.\n", "marketing", "de_DE");
+t.add("unsubscribe_newsletter.box.text_please_confirm", "Bitte best\u00e4tige deine Abmeldung, indem du auf den folgenden Link klickst:\n", "marketing", "de_DE");
+t.add("unsubscribe_newsletter.box.text_what_you_miss", "Ob neue Kollektionen, Wissenswertes zum Thema Brillen oder lukrative Rabatte - das alles und noch viel mehr steckt im Brille24-Newsletter.\n", "marketing", "de_DE");
+t.add("unsubscribe_newsletter.box.title", "Du m\u00f6chtest dich vom Newsletter abmelden?\n", "marketing", "de_DE");
+t.add("app.ratgeber.related_articles", "Weitere Beitr\u00e4ge\n", "marketing", "de_DE");
+t.add("app.banner.copy_coupon", "Kopieren\n", "marketing", "de_DE");
+t.add("app.banner.coupon_copied", "Kopiert\n", "marketing", "de_DE");
+t.add("app.banner.show_conditions", "Aktionsbedingungen\n", "marketing", "de_DE");
+t.add("app.banner.hide_conditions", "Ausblenden\n", "marketing", "de_DE");
+t.add("app.countdown.days", "Tage\n", "marketing", "de_DE");
+t.add("app.countdown.hours", "Std.\n", "marketing", "de_DE");
+t.add("app.countdown.minutes", "Min.\n", "marketing", "de_DE");
+t.add("app.countdown.seconds", "Sek.\n", "marketing", "de_DE");
+t.add("app.countdown.expired", "Abgelaufen\n", "marketing", "de_DE");
+})(Translator);

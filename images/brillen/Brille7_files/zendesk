@@ -1,0 +1,15 @@
+(function (t) {
+t.fallback = 'en';
+t.defaultDomain = 'messages';
+// de_DE
+t.add("zendesk.agents_offline.headline", "Hilfe und Kontakt\n", "zendesk", "de_DE");
+t.add("zendesk.agents_offline.message", "Unser Kundenservice hilft dir bei allen Anliegen gerne weiter.\n", "zendesk", "de_DE");
+t.add("zendesk.agents_offline.phone", "+49 441 - 2 33 699 12\n", "zendesk", "de_DE");
+t.add("zendesk.open_button_text", "Hilfe\n", "zendesk", "de_DE");
+t.add("zendesk.phone", "+49 441 233 699 12\n", "zendesk", "de_DE");
+t.add("zendesk.opentime", "Montags - Freitags von 9 - 18 Uhr\n", "zendesk", "de_DE");
+t.add("zendesk.text", "Du m\u00f6chtest bestellen oder hast Fragen? Rufe uns einfach an:\n", "zendesk", "de_DE");
+t.add("zendesk.headline", "Beratung &amp; Bestellung\n", "zendesk", "de_DE");
+t.add("Advice & Order", "Beratung &amp; Bestellung\n", "zendesk", "de_DE");
+t.add("test.bananas", "Ich habe eine Banane und habe keine Angst, sie zu verwenden.\n", "zendesk", "de_DE");
+})(Translator);

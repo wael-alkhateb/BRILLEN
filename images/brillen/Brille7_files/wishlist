@@ -1,0 +1,16 @@
+(function (t) {
+t.fallback = 'en';
+t.defaultDomain = 'messages';
+// de_DE
+t.add("wishlist.buttons.select_lenses", "Zum Produkt\n", "wishlist", "de_DE");
+t.add("wishlist.buttons.sun_non_prescription", "Zum Produkt\n", "wishlist", "de_DE");
+t.add("wishlist.buttons.sun_prescription", "Zum Produkt\n", "wishlist", "de_DE");
+t.add("wishlist.buttons.view_catalogue", "Zu den Produkten\n", "wishlist", "de_DE");
+t.add("wishlist.label", "Deine Favoriten\n", "wishlist", "de_DE");
+t.add("wishlist.pages.product_view.add_to_wishlist", "Zu Favoriten hinzuf\u00fcgen\n", "wishlist", "de_DE");
+t.add("wishlist.pages.product_view.remove_all_from_wishlist", "Alle Favoriten l\u00f6schen\n", "wishlist", "de_DE");
+t.add("wishlist.pages.product_view.remove_from_wishlist", "Aus Favoriten l\u00f6schen\n", "wishlist", "de_DE");
+t.add("wishlist.pages.wishlist.back_to_product", "Zum Produkt\n", "wishlist", "de_DE");
+t.add("wishlist.pages.wishlist.title", "Deine Brillenfavoriten\n", "wishlist", "de_DE");
+t.add("wishlist.product.removed_disabled", "%name% ist nicht mehr verf\u00fcgbar und wurde aus deiner Favoritenliste entfernt.\n", "wishlist", "de_DE");
+})(Translator);
