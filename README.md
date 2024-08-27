@@ -45,13 +45,3 @@ To customize the website, you can modify the following:
 **HTML Content**: Update text, add or remove sections in the `index.html` file.
 **CSS Styling**: Change colors, fonts, layout, or add more styles in `style.css`.
 **Images**: Replace images in the `images/brillen` folder with your own to update the visuals.
-## Contact
-If you have any questions or suggestions, please contact us at [your-email@example.com](mailto:your-email@example.com).
-&copy; 2024 BRILLEN. All rights reserved.
-```
-### Instructions
-**Copy the README content above** and save it as a `README.md` file in your project directory.
-**Update the "Demo" section** with a live link if you deploy the site online.
-**Modify the "Contact" section** with your actual contact information.
-**Adjust the file structure description** if there are more or fewer files in your project.
-This README file will help others understand your project, how to use it, and how to contribute or contact you if necessary.
